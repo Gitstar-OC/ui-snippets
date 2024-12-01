@@ -2,7 +2,6 @@ import React from 'react';
 import { styled } from 'stitches.config';
 import Separator from 'components/Separator';
 import Stack from 'components/Stack';
-import LinkPreview from 'components/LinkPreview';
 
 const Footer = () => {
   return (
@@ -13,6 +12,10 @@ const Footer = () => {
           Built by{' '}
           <Link href="https://twitter.com/emilkowalski_" target="_blank" rel="noreferrer">
             Emil
+          </Link>
+          Updated by{' '}
+          <Link href="https://x.com/IamNotOC" target="_blank" rel="noreferrer">
+            OC
           </Link>
         </Paragraph>
       </Stack>
