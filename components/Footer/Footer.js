@@ -13,7 +13,7 @@ const Footer = () => {
           <Link href="https://twitter.com/emilkowalski_" target="_blank" rel="noreferrer">
             Emil {' '}
           </Link>
-          Updated by{' '}
+{' '} Updated by{' '}
           <Link href="https://x.com/IamNotOC" target="_blank" rel="noreferrer">
             OC
           </Link>
