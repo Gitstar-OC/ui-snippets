@@ -1,6 +1,6 @@
 import NextHead from 'next/head';
 
-const ogImage = 'https://ui-snippets.dev/thumbnail.jpg';
+const ogImage = 'https://snippets.theme-verse.com/thumbnail.jpg';
 
 const Head = ({
   title = 'UI Snippets',
@@ -22,13 +22,13 @@ const Head = ({
     <meta name="og:image" content={ogImage} />
 
     {/* URL */}
-    <meta name="og:url" content="https://ui-snippets.dev/" />
+    <meta name="og:url" content="https://snippets.theme-verse.com/" />
 
     {/* General */}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta httpEquiv="Content-Language" content="en" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@emilkowalski_" />
+    <meta name="twitter:site" content="@IamNotOC" />
     <meta name="author" content="Emil Kowalski" />
 
     {/* Favicons */}
