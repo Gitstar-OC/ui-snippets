@@ -11,7 +11,7 @@ const Footer = () => {
         <Paragraph>
           Built by{' '}
           <Link href="https://twitter.com/emilkowalski_" target="_blank" rel="noreferrer">
-            Emil
+            Emil {' '}
           </Link>
           Updated by{' '}
           <Link href="https://x.com/IamNotOC" target="_blank" rel="noreferrer">
